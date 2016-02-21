@@ -1,13 +1,4 @@
-fo = open("australia_commentary.txt", "rw+")
-
-print ("CREATE TABLE Australia(ID INT AUTO_INCREMENT PRIMARY KEY NOT NULL,\
-Bowler VARCHAR(50) NOT NULL,\
-Batsman VARCHAR(50) NOT NULL,\
-Runs INT NOT NULL,\
-Wide TINYINT(1),\
-No_Ball TINYINT(1),\
-Leg_Bye TINYINT(1),\
-Wicket TINYINT(1));")
+fo = open("india_commentary.txt", "rw+")
 
 for i in range(0, 361):
 	line = fo.readline()
@@ -41,18 +32,18 @@ for i in range(0, 361):
 		runs=2
 	elif(x=="3"):
 		runs=3
-	elif(x=="FOUR,"):
+	elif(x=="4,"):
 		runs=4
-	elif(x=="SIX,"):
+	elif(x=="6,"):
 		runs=6
 	elif(x=="OUT,"):
 		runs=0
 		flag=3
 	elif x=="1" and string[j+1]=="wide,":
-		runs=1
+		runs=0
 		flag=1
 	elif x=="1" and string[j+1]=="leg":
-		runs=1
+		runs=0
 		flag=4
 	wide=0
 	noBall=0
@@ -66,7 +57,7 @@ for i in range(0, 361):
 		out = 1
 	elif(flag==4):
 		legBye = 1
-	print ("INSERT INTO Australia(Bowler, Batsman, Runs, Wide, No_Ball, Leg_Bye, Wicket)\
+	print ("INSERT INTO India(Bowler, Batsman, Runs, Wide, No_Ball, Leg_Bye, Wicket)\
 		VALUES (" + "\"" + bowler + "\"" + ", " + "\"" + batsman + "\"" + ", " + str(runs) + ", " + str(wide) + ", " + str(noBall) + ", " + str(legBye) + ", " + str(out) + ");")
 		
 		
