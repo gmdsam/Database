@@ -1,4 +1,3 @@
-CREATE TABLE Australia(ID INT AUTO_INCREMENT PRIMARY KEY NOT NULL,Bowler VARCHAR(50) NOT NULL,Batsman VARCHAR(50) NOT NULL,Runs INT NOT NULL,Wide TINYINT(1),No_Ball TINYINT(1),Leg_Bye TINYINT(1),Wicket TINYINT(1));
 INSERT INTO Australia(Bowler, Batsman, Runs, Wide, No_Ball, Leg_Bye, Wicket)		VALUES ("Yadav", "SE Marsh", 0, 0, 0, 0, 0);
 INSERT INTO Australia(Bowler, Batsman, Runs, Wide, No_Ball, Leg_Bye, Wicket)		VALUES ("Yadav", "SE Marsh", 0, 0, 0, 0, 0);
 INSERT INTO Australia(Bowler, Batsman, Runs, Wide, No_Ball, Leg_Bye, Wicket)		VALUES ("Yadav", "SE Marsh", 0, 0, 0, 0, 0);
