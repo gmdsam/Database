@@ -1,0 +1,328 @@
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 4s 17ms/step - loss: 155.4894 - sequential_2_loss: 112.8841 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9027 - val_sequential_2_loss: 0.3027 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 1.9041 - sequential_2_loss: 0.5953 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.8990 - val_sequential_2_loss: 0.2990 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 1.5498 - sequential_2_loss: 0.4721 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8991 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9018 - sequential_2_loss: 0.3008 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9008 - sequential_2_loss: 0.3010 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8998 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0261 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8990 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9013 - sequential_2_loss: 0.3006 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9009 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0261 - sequential_2_acc_2: 0.0348 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8992 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 6ms/step - loss: 0.9000 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8998 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0348 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0261 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8992 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0217 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8991 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0304 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.2995 - sequential_2_acc: 0.0261 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0435 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.2994 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0348 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0217 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0348 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9008 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0217 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8993 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0391 - sequential_2_acc_2: 0.0261 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8981 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0348 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0391 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0261 - sequential_2_acc_1: 0.0348 - sequential_2_acc_2: 0.0348 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3006 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0217 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9012 - sequential_2_loss: 0.3007 - sequential_2_acc: 0.0348 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0304 - sequential_2_acc_1: 0.0261 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9009 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0304 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0348 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2994 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0261 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8998 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0261 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9012 - sequential_2_loss: 0.3010 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0217 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0304 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9010 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0217 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.3001 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0174 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8987 - sequential_2_loss: 0.2995 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3009 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8985 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8998 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9004 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0217 - sequential_2_acc_1: 0.0174 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0174 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0130 - sequential_2_acc_1: 0.0130 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8989 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0087 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0087 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9010 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0087 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0130 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8996 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8998 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8994 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8992 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9001 - sequential_2_loss: 0.2995 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8985 - sequential_2_loss: 0.2990 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8985 - sequential_2_loss: 0.2986 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9010 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3007 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9043 - sequential_2_loss: 0.3014 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9003 - sequential_2_loss: 0.3003 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8981 - sequential_2_loss: 0.2983 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.2996 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.3004 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.2994 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9024 - sequential_2_loss: 0.3017 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3008 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9002 - sequential_2_loss: 0.2997 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8997 - sequential_2_loss: 0.3002 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8985 - sequential_2_loss: 0.2994 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8994 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8993 - sequential_2_loss: 0.2995 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9005 - sequential_2_loss: 0.3007 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8993 - sequential_2_loss: 0.2999 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3007 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8999 - sequential_2_loss: 0.2990 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8979 - sequential_2_loss: 0.2991 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9008 - sequential_2_loss: 0.3017 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9010 - sequential_2_loss: 0.3009 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9006 - sequential_2_loss: 0.3008 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 7/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8983 - sequential_2_loss: 0.2989 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 8/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8976 - sequential_2_loss: 0.2986 - sequential_2_acc: 0.0043 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 9/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8995 - sequential_2_loss: 0.3011 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 10/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9011 - sequential_2_loss: 0.3000 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0043 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Train on 230 samples, validate on 26 samples
+Epoch 1/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9007 - sequential_2_loss: 0.2994 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 2/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8987 - sequential_2_loss: 0.2992 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 3/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9000 - sequential_2_loss: 0.3018 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 4/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9040 - sequential_2_loss: 0.3005 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 5/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.9038 - sequential_2_loss: 0.3009 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0000e+00 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
+Epoch 6/10
+230/230 [==============================] - 1s 5ms/step - loss: 0.8991 - sequential_2_loss: 0.2998 - sequential_2_acc: 0.0000e+00 - sequential_2_acc_1: 0.0043 - sequential_2_acc_2: 0.0000e+00 - val_loss: 0.9000 - val_sequential_2_loss: 0.3000 - val_sequential_2_acc: 0.0000e+00 - val_sequential_2_acc_1: 0.0000e+00 - val_sequential_2_acc_2: 0.0000e+00
